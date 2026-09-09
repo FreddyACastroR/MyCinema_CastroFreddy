@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyCinema</string>
+    <string name="login_subtitle">Tu cine, en tu bolsillo</string>
+    <string name="login_email_hint">Correo electrónico</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="login_register_prompt">¿No tienes cuenta? Regístrate</string>
+    <string name="login_error_email">Ingresa un correo válido</string>
+    <string name="login_error_password">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="login_register_soon">El registro estará disponible próximamente</string>
+    <string name="login_logo_description">Logotipo de MyCinema</string>
+    <string name="detail_rent">Rentar</string>
+    <string name="detail_buy">Comprar</string>
+    <string name="detail_similar">Similares</string>
+    <string name="detail_save_description">Guardar película</string>
+    <string name="detail_poster_description">Póster de %1$s</string>
+    <string name="detail_backdrop_description">Fondo de %1$s</string>
+    <string name="detail_rating">%1$s</string>
+    <string name="detail_match">%1$d%% coincidencia</string>
+    <string name="detail_saved">%1$s guardada en tu lista</string>
+    <string name="detail_rent_message">Rentando %1$s…</string>
+    <string name="detail_buy_message">Comprando %1$s…</string>
+    <string name="diehard_title">Die Hard</string>
+    <string name="diehard_genre">Acción</string>
+    <string name="diehard_synopsis">Die Hard (1988). El policía neoyorquino John McClane (Bruce Willis) viaja a Los Ángeles en Nochebuena para reconciliarse con su esposa Holly, que trabaja en la corporación Nakatomi. Durante la fiesta de la empresa, un grupo de terroristas liderado por Hans Gruber (Alan Rickman) toma el rascacielos y a todos sus ocupantes como rehenes.\n\nMcClane, descalzo y sin refuerzos, se convierte en el único obstáculo entre los criminales y su botín, y deberá enfrentarse a ellos piso por piso para salvar a los rehenes.</string>
+    <string name="atlantis_title">Atlantis: El imperio perdido</string>
+    <string name="atlantis_genre">Aventura</string>
+    <string name="atlantis_synopsis">Atlantis: El imperio perdido (2001). Milo Thatch, un joven lingüista y cartógrafo, está convencido de que la legendaria ciudad de la Atlántida existe. Con el apoyo de un excéntrico millonario, se une a una expedición a bordo de un submarino para encontrarla.\n\nTras descubrir la ciudad y a sus habitantes, Milo se da cuenta de que algunos de sus compañeros tienen intenciones ocultas y deberá decidir de qué lado está.</string>
+    <string name="cars_title">Cars</string>
+    <string name="cars_genre">Familiar</string>
+    <string name="cars_synopsis">Cars (2006). Rayo McQueen es un auto de carreras novato, arrogante y obsesionado con ganar la Copa Pistón. De camino a la carrera final se pierde y termina en Radiador Springs, un pueblo olvidado de la Ruta 66.\n\nObligado a reparar el camino que destruyó, Rayo conoce a Mate, Sally y Doc Hudson, y descubre que hay cosas más importantes que llegar primero a la meta.</string>
+</resources>
